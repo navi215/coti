@@ -1,1 +1,3 @@
 # coti
+
+blockchain safety
